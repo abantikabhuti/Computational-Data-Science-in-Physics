@@ -5,7 +5,7 @@
 3. Gravitational Waves
 4. Introduction to Data Fitting
 5. Uncertainty
-## Problems
+## Guided Problems
 1. Poisson Statistics and Probability
 2. Error Propagation
 3. Fourier Analysis
